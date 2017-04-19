@@ -1,9 +1,14 @@
-# api documentation for  [siege (v0.2.0)](https://github.com/kissjs/siege.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-siege.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-siege) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-siege.svg)](https://travis-ci.org/npmdoc/node-npmdoc-siege)
+# npmdoc-siege
+
+#### api documentation for  [siege (v0.2.0)](https://github.com/kissjs/siege.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-siege.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-siege) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-siege.svg)](https://travis-ci.org/npmdoc/node-npmdoc-siege)
+
 #### http benchmark by nodejs
 
-[![NPM](https://nodei.co/npm/siege.png?downloads=true)](https://www.npmjs.com/package/siege)
+[![NPM](https://nodei.co/npm/siege.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/siege)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-siege/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-siege_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-siege/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-siege/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-siege/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-siege/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-siege/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-siege/build/screenCapture.npmPackageListing.svg)
 
@@ -41,13 +46,11 @@
     "main": "siege.js",
     "maintainers": [
         {
-            "name": "guileen",
-            "email": "guileen@gmail.com"
+            "name": "guileen"
         }
     ],
     "name": "siege",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/kissjs/siege.js.git"
@@ -56,16 +59,6 @@
     "version": "0.2.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module siege](#apidoc.module.siege)
-
-
-
-# <a name="apidoc.module.siege"></a>[module siege](#apidoc.module.siege)
 
 
 
